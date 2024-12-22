@@ -9,7 +9,7 @@
   "dependencies": {
     "@web3-onboard/injected-wallets": "^2.8.3",
     "@web3-onboard/vue": "^2.5.7",
-    "vue": "^2.7.14",
+    "vue": "^2.7.16",
     "vue-template-compiler": "2.7.14"
   },
   "devDependencies": {
