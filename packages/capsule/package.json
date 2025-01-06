@@ -57,8 +57,8 @@
   ],
   "dependencies": {
     "@tanstack/react-query": "^5.29.0",
-    "@usecapsule/react-sdk": "^3.17.0",
-    "@usecapsule/wagmi-v2-integration": "^2.18.0",
+    "@usecapsule/react-sdk": "^4.15.0",
+    "@usecapsule/wagmi-v2-integration": "^3.15.0",
     "@wagmi/chains": "^1.8.0",
     "@web3-onboard/common": "^2.4.1",
     "react-dom": "^18.2.0",
