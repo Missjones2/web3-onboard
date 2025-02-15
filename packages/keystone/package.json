@@ -55,9 +55,9 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@ethereumjs/tx": "^3.4.0",
+    "@ethereumjs/tx": "^4.0.0",
     "@ethersproject/providers": "^5.5.0",
-    "@keystonehq/eth-keyring": "^0.14.00.3",
+    "@keystonehq/eth-keyring": "^0.17.0",
     "@web3-onboard/common": "^2.4.1",
     "@web3-onboard/hw-common": "^2.3.2"
   }
